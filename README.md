@@ -1,6 +1,6 @@
 # Computer Systems Notes
 
-我学习计算机系统的笔记
+我学习计算机系统的笔记，由于本人能力有限，如果有错误还希望多多指正。
 
 ## 目录结构
 
@@ -24,3 +24,7 @@ QQ: [2113836986](https://qm.qq.com/cgi-bin/qm/qr?k=tnjMHnEtiEZ1ZxjxzdH3RaXlLTnTz
 Bilibili: [2126856300](https://space.bilibili.com/2126856300)
 Email: [linmhwork@outlook.com](mailto:linmhwork@outlook.com)
 GitHub: https://github.com/linmoh
+
+---
+
+> 欢迎提出修改建议和补充内容，让笔记更加完善！
