@@ -16,6 +16,9 @@ computer-systems-notes/
 
 ## 笔记
 
+[线程与进程](notes/线程与进程.md)
+
+[并发与并行](notes/并发和并行.md)
 
 ## License
 
