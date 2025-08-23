@@ -1,0 +1,1 @@
+我学习系统底层，主要是依靠 CSAPP 配合 ChatGPT 使用，同时参考 CMU 15-213 的课程内容。国外课程的启发式教学体验非常棒。相比之下，[九曲阑干的视频](https://www.bilibili.com/video/BV1cD4y1D7uR)只是对书本内容的复述，实际收获有限。
