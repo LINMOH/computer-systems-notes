@@ -14,6 +14,9 @@ computer-systems-notes/
 └── misc/            # 思维导图、图表等杂项
 ```
 
+## 笔记
+
+
 ## License
 
 本仓库内容采用 **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可**
