@@ -27,8 +27,11 @@ computer-systems-notes/
 ## 联系作者
 
 QQ: [2113836986](https://qm.qq.com/cgi-bin/qm/qr?k=tnjMHnEtiEZ1ZxjxzdH3RaXlLTnTzGBX)
+
 Bilibili: [2126856300](https://space.bilibili.com/2126856300)
+
 Email: [linmhwork@outlook.com](mailto:linmhwork@outlook.com)
+
 GitHub: https://github.com/linmoh
 
 ---
