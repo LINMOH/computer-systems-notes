@@ -20,6 +20,8 @@ computer-systems-notes/
 
 [并发与并行](notes/并发和并行.md)
 
+[虚拟内存](notes/虚拟内存.md)
+
 ## License
 
 本仓库内容采用 **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可**
