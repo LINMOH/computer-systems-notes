@@ -22,7 +22,7 @@ computer-systems-notes/
 
 - [虚拟内存](notes/虚拟内存.md)
 
-- [Amdahl 定律](notes\Amdahl定律.md)
+- [Amdahl 定律](notes/Amdahl定律.md)
 
 ## LICENSE
 
