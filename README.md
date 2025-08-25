@@ -16,13 +16,15 @@ computer-systems-notes/
 
 ## 笔记
 
-[线程与进程](notes/线程与进程.md)
+- [线程与进程](notes/线程与进程.md)
 
-[并发与并行](notes/并发和并行.md)
+- [并发与并行](notes/并发和并行.md)
 
-[虚拟内存](notes/虚拟内存.md)
+- [虚拟内存](notes/虚拟内存.md)
 
-## License
+- [Amdahl 定律](notes\Amdahl定律.md)
+
+## LICENSE
 
 本仓库内容采用 **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可**
 
@@ -38,4 +40,4 @@ GitHub: https://github.com/linmoh
 
 ---
 
-> 欢迎提出修改建议和补充内容，让笔记更加完善！
+欢迎提出修改建议和补充内容，让笔记更加完善！
